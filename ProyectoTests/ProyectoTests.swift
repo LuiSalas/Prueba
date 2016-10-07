@@ -21,6 +21,21 @@ class ProyectoTests: XCTestCase {
         super.tearDown()
     }
     
+    /*
+     func testNumberOfVowelsIsInString_ShouldReturnNumberOFvOWELS()
+     {
+     let viewController = ViewController()
+     
+     let string = "Dominik"
+     
+     let numberOfVowels = viewController.numberOfVowelsInString(string: string)
+     
+     XCTAssertEqual(numberOfVowels, 3,"should find 3 vowels in Dominik")
+     
+     }
+     
+     */
+    
     func testExample() {
         // This is an example of a functional test case.
         // Use XCTAssert and related functions to verify your tests produce the correct results.
